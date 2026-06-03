@@ -36,7 +36,6 @@ Here's what I've been working on — click to explore:
 ![Destiny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=destinyairhiavbere42&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=destinyairhiavbere42&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🌱 Currently Working On
