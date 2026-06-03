@@ -21,9 +21,11 @@ I'm a passionate data analyst based in **Nigeria 🇳🇬**, on a mission to bui
 
 Here's what I've been working on — click to explore:
 
-- 🔢 **[Excel Analysis Project](https://github.com/destinyairhiavbere42)** — Data cleaning, pivot tables & dashboards
-- 📊 **[Power BI Dashboard](https://github.com/destinyairhiavbere42)** — Interactive reports & business insights
-- 🐍 **[Python Data Analysis](https://github.com/destinyairhiavbere42)** — Exploratory data analysis with Pandas & visualizations
+- 🔢 **[Bank Customer Churn Analysis](https://github.com/destinyairhiavbere42/bank-customer-churn-excel)** — Data cleaning, pivot tables & interactive dashboard
+
+- 🐍 **[Striker Performance Analysis](https://github.com/destinyairhiavbere42/striker-performance-analysis)** — KMeans clustering & logistic regression with 98% accuracy
+
+- 📊 **[Website Performance Dashboard](https://github.com/destinyairhiavbere42/website-performance-powerbi)** — Interactive Power BI dashboard with maps, charts & KPI cards
 
 > 🚧 *Portfolio actively being built — more projects coming soon!*
 
